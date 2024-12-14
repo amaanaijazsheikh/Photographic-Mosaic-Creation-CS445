@@ -126,6 +126,10 @@ Photographic-Mosaic-Creation/
 |   |   |-- Lion_25x25.ipynb
 |   |   |-- Lion_50x50.ipynb
 |   |-- Data Preprocessing.ipynb
+|-- Images/
+|   |-- Final Portrait/
+|   |-- Lake/
+|   |-- Lion/
 |-- README.md
 |-- Report.pdf
 ```
