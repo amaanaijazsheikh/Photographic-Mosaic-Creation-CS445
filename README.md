@@ -13,15 +13,15 @@ This project explores the fascinating blend of computational photography and com
   - Segments the target image into grids, ensuring compatibility with tile data.
 
 ### 2. Mosaic Generation 
-- ** Grid Division**:
+- **Grid Division**:
   - Divides the target image into cells (e.g., 10x10 grid for `Lion_10x10`).
   - Computes average colors for each grid cell as the foundation for tile matching.
-- ** Tile Matching and Diversity**:
+- **Tile Matching and Diversity**:
   - Finds the closest matching tiles based on advanced vectorized calculations.
   - Enforces diversity rules to minimize repetition and enhance visual interest.
-- ** Adaptive Tiling**:
+- **Adaptive Tiling**:
   - Adjusts tile sizes dynamically based on the image's detail map, balancing fine detail and efficiency.
-- ** Advanced Blending**:
+- **Advanced Blending**:
   - Integrates tiles seamlessly using alpha and Poisson blending for realistic effects.
 
 ### 3. Output Variations
@@ -31,11 +31,11 @@ This project explores the fascinating blend of computational photography and com
 ---
 
 ## 🛠️ Key Features
-- ** Color Matching**: Ensures accurate tile-to-target alignment through distance metrics.
-- ** Adaptive Tiling**: Balances aesthetic quality by scaling tiles to match detail intensity.
-- ** Seamless Blending**: Applies Poisson and alpha blending to eliminate visual seams.
-- ** Tile Diversity**: Reduces redundancy by tracking tile usage dynamically.
-- ** Efficiency**: Combines vectorized operations with multi-threading for optimal performance.
+- **Color Matching**: Ensures accurate tile-to-target alignment through distance metrics.
+- **Adaptive Tiling**: Balances aesthetic quality by scaling tiles to match detail intensity.
+- **Seamless Blending**: Applies Poisson and alpha blending to eliminate visual seams.
+- **Tile Diversity**: Reduces redundancy by tracking tile usage dynamically.
+- **Efficiency**: Combines vectorized operations with multi-threading for optimal performance.
 
 ---
 
