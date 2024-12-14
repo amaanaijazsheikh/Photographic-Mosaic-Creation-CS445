@@ -1,31 +1,39 @@
 # Photographic Mosaic Creation
 
 ## Overview
-This project explores the blend of computational photography and computer vision through the creation of photographic mosaics. The objective is to reconstruct a target image using smaller image tiles, ensuring both artistic appeal and computational efficiency. Core techniques like **color matching**, **adaptive tiling**, and **blending** are utilized to craft visually stunning mosaics. 
+This project explores the blend of computational photography and computer vision through the creation of photographic mosaics. The objective is to reconstruct a target image using smaller image tiles, ensuring both artistic appeal and computational efficiency. Core techniques like **color matching**, **adaptive tiling**, and **blending** are utilized to create detailed mosaics. 
 
-**Input Image:**
-<img src="Images/Final_Potrait/Input.png" alt="Final Portrait Input" width="400"/>
+<div align="center">
+  <img src="Images/Final_Potrait/Input.png" alt="Final Portrait Input" width="400"/>
+  <p><b>Sample Input Image</b></p>
+</div>
 
 **Output Mosaics:**
 
-<table>
-  <tr>
-    <td align="center"><b>10x10 Grid</b></td>
-    <td align="center"><b>20x20 Grid</b></td>
-  </tr>
-  <tr>
-    <td><img src="Images/Final_Potrait/Grid-10x10.jpg" alt="Final Portrait 10x10" width="250"/></td>
-    <td><img src="Images/Final_Potrait/Grid-20x20.jpg" alt="Final Portrait 20x20" width="250"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>25x25 Grid</b></td>
-    <td align="center"><b>50x50 Grid</b></td>
-  </tr>
-  <tr>
-    <td><img src="Images/Final_Potrait/Grid-25x25.jpg" alt="Final Portrait 25x25" width="250"/></td>
-    <td><img src="Images/Final_Potrait/Grid-50x50.jpg" alt="Final Portrait 50x50" width="250"/></td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Images/Final_Potrait/Grid-10x10.jpg" alt="Final Portrait 10x10" width="250"/><br>
+        <b>10x10 Grid</b>
+      </td>
+      <td align="center">
+        <img src="Images/Final_Potrait/Grid-20x20.jpg" alt="Final Portrait 20x20" width="250"/><br>
+        <b>20x20 Grid</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="Images/Final_Potrait/Grid-25x25.jpg" alt="Final Portrait 25x25" width="250"/><br>
+        <b>25x25 Grid</b>
+      </td>
+      <td align="center">
+        <img src="Images/Final_Potrait/Grid-50x50.jpg" alt="Final Portrait 50x50" width="250"/><br>
+        <b>50x50 Grid</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
