@@ -3,6 +3,20 @@
 ## Overview
 This project explores the blend of computational photography and computer vision through the creation of photographic mosaics. The objective is to reconstruct a target image using smaller image tiles, ensuring both artistic appeal and computational efficiency. Core techniques like **color matching**, **adaptive tiling**, and **blending** are utilized to craft visually stunning mosaics. 
 
+**Input Image:**
+!(Images/Final_Potrait/Input.png)
+
+**Output Mosaics:**
+- **10x10 Grid:**
+  !(Images/Final_Potrait/10x10.png)
+- **20x20 Grid:**
+  !(Images/Final_Potrait/20x20.png)
+- **25x25 Grid:**
+  !(Images/Final_Potrait/20x20.png)  
+- **50x50 Grid:**
+  !(Images/Final_Potrait/50x50.png)
+
+
 ## 🔬 Implementation Pipeline
 
 ### 1. Data Preprocessing 
@@ -68,14 +82,6 @@ This project explores the blend of computational photography and computer vision
   - PIL (Python Imaging Library)
   - Pandas
   - TQDM (for progress tracking)
-
----
-
-## 🎨 Example Outputs
-Some outputs of this project include:
-- **Lion**: Mosaics in grid sizes like 10x10, 20x20, 25x25, and 50x50.
-- **Lake**: Adaptive mosaics showcasing dynamic tiling.
-- **Portrait**: Visual masterpieces crafted using diverse tiles.
 
 ---
 
