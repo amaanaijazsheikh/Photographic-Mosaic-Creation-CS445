@@ -60,7 +60,7 @@ This project explores the blend of computational photography and computer vision
 ## 📓 Resources Used
 - **Datasets**:
   - [COCO Dataset](https://cocodataset.org/)
-  - Flickr Creative Commons Images
+
 - **Libraries**:
   - OpenCV
   - NumPy
