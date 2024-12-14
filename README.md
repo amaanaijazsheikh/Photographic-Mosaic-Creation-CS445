@@ -1,7 +1,7 @@
 # Photographic Mosaic Creation
 
 ## Overview
-This project explores the fascinating blend of computational photography and computer vision through the creation of photographic mosaics. The objective is to reconstruct a target image using smaller image tiles, ensuring both artistic appeal and computational efficiency. Core techniques like **color matching**, **adaptive tiling**, and **blending** are utilized to craft visually stunning mosaics. 
+This project explores the blend of computational photography and computer vision through the creation of photographic mosaics. The objective is to reconstruct a target image using smaller image tiles, ensuring both artistic appeal and computational efficiency. Core techniques like **color matching**, **adaptive tiling**, and **blending** are utilized to craft visually stunning mosaics. 
 
 ## 🔬 Implementation Pipeline
 
