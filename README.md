@@ -4,17 +4,18 @@
 This project explores the blend of computational photography and computer vision through the creation of photographic mosaics. The objective is to reconstruct a target image using smaller image tiles, ensuring both artistic appeal and computational efficiency. Core techniques like **color matching**, **adaptive tiling**, and **blending** are utilized to craft visually stunning mosaics. 
 
 **Input Image:**
-![Final Portrait Input](Images/Final_Potrait/Input.png)
+<img src="Images/Final_Potrait/Input.png" alt="Final Portrait Input" width="400"/>
 
 **Output Mosaics:**
 - **10x10 Grid:**
-  ![Final Portrait 10x10](Images/Final_Potrait/Grid-10x10.jpg)
+  <img src="Images/Final_Potrait/10x10.png" alt="Final Portrait 10x10" width="400"/>
 - **20x20 Grid:**
-  ![Final Portrait 20x20](Images/Final_Potrait/Grid-20x20.jpg)
+  <img src="Images/Final_Potrait/20x20.png" alt="Final Portrait 20x20" width="400"/>
 - **25x25 Grid:**
-  ![Final Portrait 25x25](Images/Final_Potrait/Grid-25x25.jpg)  
+  <img src="Images/Final_Potrait/25x25.png" alt="Final Portrait 25x25" width="400"/>
 - **50x50 Grid:**
-  ![Final Portrait 50x50](Images/Final_Potrait/Grid-50x50.jpg)
+  <img src="Images/Final_Potrait/50x50.png" alt="Final Portrait 50x50" width="400"/>
+
 
 
 
