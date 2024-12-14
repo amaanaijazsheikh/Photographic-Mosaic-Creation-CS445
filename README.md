@@ -8,13 +8,13 @@ This project explores the blend of computational photography and computer vision
 
 **Output Mosaics:**
 - **10x10 Grid:**
-  <img src="Images/Final_Potrait/10x10.png" alt="Final Portrait 10x10" width="400"/>
+  <img src="Images/Final_Potrait/Grid-10x10.jpg" alt="Final Portrait 10x10" width="400"/>
 - **20x20 Grid:**
-  <img src="Images/Final_Potrait/20x20.png" alt="Final Portrait 20x20" width="400"/>
+  <img src="Images/Final_Potrait/Grid-20x20.jpg" alt="Final Portrait 20x20" width="400"/>
 - **25x25 Grid:**
-  <img src="Images/Final_Potrait/25x25.png" alt="Final Portrait 25x25" width="400"/>
+  <img src="Images/Final_Potrait/Grid-25x25.jpg" alt="Final Portrait 25x25" width="400"/>
 - **50x50 Grid:**
-  <img src="Images/Final_Potrait/50x50.png" alt="Final Portrait 50x50" width="400"/>
+  <img src="Images/Final_Potrait/Grid-50x50.jpg" alt="Final Portrait 50x50" width="400"/>
 
 
 
