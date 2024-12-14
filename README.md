@@ -25,7 +25,7 @@ This project explores the blend of computational photography and computer vision
   - Integrates tiles seamlessly using alpha and Poisson blending for realistic effects.
 
 ### 3. Output Variations
-- **Grid Configurations**: Supports grids like 10x10, 20x20, 25x25, and 50x50.
+- **Grid Configurations**: Supports grids like 10x10, 20x20, and 50x50.
 - **Adaptive Mosaics**: Leverages edge detection for detail-aware tiling.
 
 ---
@@ -73,7 +73,7 @@ This project explores the blend of computational photography and computer vision
 
 ## 🎨 Example Outputs
 Some outputs of this project include:
-- **Lion**: Mosaics in grid sizes like 10x10, 20x20, 25x25, and 50x50.
+- **Lion**: Mosaics in grid sizes like 10x10, 20x20, and 50x50.
 - **Lake**: Adaptive mosaics showcasing dynamic tiling.
 - **Portrait**: Visual masterpieces crafted using diverse tiles.
 
@@ -86,17 +86,14 @@ Photographic-Mosaic-Creation/
 |   |-- Final Portrait/
 |   |   |-- Final_10x10.ipynb
 |   |   |-- Final_20x20.ipynb
-|   |   |-- Final_25x25.ipynb
 |   |   |-- Final_50x50.ipynb
 |   |-- Lake/
 |   |   |-- Lake_10x10.ipynb
 |   |   |-- Lake_20x20.ipynb
-|   |   |-- Lake_25x25.ipynb
 |   |   |-- Lake_50x50.ipynb
 |   |-- Lion/
 |   |   |-- Lion_10x10.ipynb
 |   |   |-- Lion_20x20.ipynb
-|   |   |-- Lion_25x25.ipynb
 |   |   |-- Lion_50x50.ipynb
 |   |-- Data Preprocessing.ipynb
 |-- README.md
