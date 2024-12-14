@@ -108,7 +108,7 @@ Photographic-Mosaic-Creation/
 ## 🔧 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Photographic-Mosaic-Creation.git
+   git clone https://github.com/amaanaijazsheikh/Photographic-Mosaic-Creation-CS445
    ```
 2. Navigate to the `Code` folder and open the desired Jupyter Notebook.
 3. Execute the notebooks step by step:
