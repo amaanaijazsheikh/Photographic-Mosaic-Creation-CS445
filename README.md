@@ -7,14 +7,25 @@ This project explores the blend of computational photography and computer vision
 <img src="Images/Final_Potrait/Input.png" alt="Final Portrait Input" width="400"/>
 
 **Output Mosaics:**
-- **10x10 Grid:**
-  <img src="Images/Final_Potrait/Grid-10x10.jpg" alt="Final Portrait 10x10" width="250"/>
-- **20x20 Grid:**
-  <img src="Images/Final_Potrait/Grid-20x20.jpg" alt="Final Portrait 20x20" width="250"/>
-- **25x25 Grid:**
-  <img src="Images/Final_Potrait/Grid-25x25.jpg" alt="Final Portrait 25x25" width="250"/>
-- **50x50 Grid:**
-  <img src="Images/Final_Potrait/Grid-50x50.jpg" alt="Final Portrait 50x50" width="250"/>
+
+<table>
+  <tr>
+    <td align="center"><b>10x10 Grid</b></td>
+    <td align="center"><b>20x20 Grid</b></td>
+  </tr>
+  <tr>
+    <td><img src="Images/Final_Potrait/Grid-10x10.jpg" alt="Final Portrait 10x10" width="250"/></td>
+    <td><img src="Images/Final_Potrait/Grid-20x20.jpg" alt="Final Portrait 20x20" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>25x25 Grid</b></td>
+    <td align="center"><b>50x50 Grid</b></td>
+  </tr>
+  <tr>
+    <td><img src="Images/Final_Potrait/Grid-25x25.jpg" alt="Final Portrait 25x25" width="250"/></td>
+    <td><img src="Images/Final_Potrait/Grid-50x50.jpg" alt="Final Portrait 50x50" width="250"/></td>
+  </tr>
+</table>
 
 
 
