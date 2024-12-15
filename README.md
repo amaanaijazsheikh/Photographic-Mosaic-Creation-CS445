@@ -8,7 +8,7 @@ This project explores the blend of computational photography and computer vision
   <p><b>Sample Input Image</b></p>
 </div>
 
-**Output Mosaics:**
+**Sample Output Mosaics:**
 
 <div align="center">
   <table>
