@@ -14,21 +14,21 @@ This project explores the blend of computational photography and computer vision
   <table>
     <tr>
       <td align="center">
-        <img src="Images/Final_Potrait/10x10.jpg" alt="Final Portrait 10x10" width="250"/><br>
+        <img src="Sample%20Outputs/Final_Potrait/Poisson%20Blended%20Mosaic/10x10.jpg" alt="Final Portrait 10x10" width="250"/><br>
         <b>10x10 Grid</b>
       </td>
       <td align="center">
-        <img src="Images/Final_Potrait/20x20.jpg" alt="Final Portrait 20x20" width="250"/><br>
+        <img src="Sample%20Outputs/Final_Potrait/Poisson%20Blended%20Mosaic/20x20.jpg" alt="Final Portrait 20x20" width="250"/><br>
         <b>20x20 Grid</b>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="Images/Final_Potrait/25x25.jpg" alt="Final Portrait 25x25" width="250"/><br>
+        <img src="Sample%20Outputs/Final_Potrait/Poisson%20Blended%20Mosaic/25x25.jpg" alt="Final Portrait 25x25" width="250"/><br>
         <b>25x25 Grid</b>
       </td>
       <td align="center">
-        <img src="Images/Final_Potrait/50x50.jpg" alt="Final Portrait 50x50" width="250"/><br>
+        <img src="Sample%20Outputs/Final_Potrait/Poisson%20Blended%20Mosaic/50x50.jpg" alt="Final Portrait 50x50" width="250"/><br>
         <b>50x50 Grid</b>
       </td>
     </tr>
